@@ -1,0 +1,11 @@
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\CrearLog.deps.json
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\CrearLog.runtimeconfig.json
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\CrearLog.runtimeconfig.dev.json
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\CrearLog.dll
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\CrearLog.csprojAssemblyReference.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\CrearLog.csproj.CoreCompileInputs.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\CrearLog.RazorAssemblyInfo.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\CrearLog.RazorAssemblyInfo.cs
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\CrearLog.AssemblyInfoInputs.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\CrearLog.AssemblyInfo.cs
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\CrearLog.RazorTargetAssemblyInfo.cache

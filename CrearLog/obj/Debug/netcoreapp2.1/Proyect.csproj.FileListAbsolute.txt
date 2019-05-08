@@ -1,0 +1,14 @@
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.csprojAssemblyReference.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.csproj.CoreCompileInputs.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.RazorAssemblyInfo.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.RazorAssemblyInfo.cs
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.AssemblyInfoInputs.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.AssemblyInfo.cs
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\Proyect.deps.json
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\Proyect.runtimeconfig.json
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\Proyect.runtimeconfig.dev.json
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\Proyect.dll
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\bin\Debug\netcoreapp2.1\Proyect.pdb
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.RazorTargetAssemblyInfo.cache
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.dll
+C:\Users\dgilgil\Desktop\CrearLog\CrearLog\obj\Debug\netcoreapp2.1\Proyect.pdb
